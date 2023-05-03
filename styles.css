@@ -10,7 +10,7 @@
 	background-color:white;
 	margin:20px;
 	display:flex;
-	align-items:center;
+	align-items:right;
 	justify-content:space-between;
 	padding:20px;
 }
@@ -20,7 +20,7 @@
 	background-color:white;
 	margin:20px;
 display:flex;
-	align-items:start;
+	align-items:right;
 	justify-content:space-between;
 	padding:20px;
 }
